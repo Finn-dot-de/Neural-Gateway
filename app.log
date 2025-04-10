@@ -1,0 +1,11 @@
+2025/02/27 22:53:08 server.go:70: Der Server läuft auf Port 8080!
+2025/02/27 22:53:20 middleware.go:61: Startzeit: Thu, 27 Feb 2025 22:53:20 CET | Methode: GET | URL: / | RemoteAddr: [::1]:53185
+2025/02/27 22:53:20 middleware.go:73: Endzeit: Thu, 27 Feb 2025 22:53:20 CET | Dauer: 521.8µs | Statuscode: 404 | Antwortgröße: 19 Bytes
+2025/02/27 22:53:21 middleware.go:61: Startzeit: Thu, 27 Feb 2025 22:53:21 CET | Methode: GET | URL: / | RemoteAddr: [::1]:53185
+2025/02/27 22:53:21 middleware.go:73: Endzeit: Thu, 27 Feb 2025 22:53:21 CET | Dauer: 0s | Statuscode: 404 | Antwortgröße: 19 Bytes
+2025/02/28 08:59:49 middleware.go:61: Startzeit: Fri, 28 Feb 2025 08:59:49 CET | Methode: GET | URL: / | RemoteAddr: [::1]:64088
+2025/02/28 08:59:49 middleware.go:73: Endzeit: Fri, 28 Feb 2025 08:59:49 CET | Dauer: 1.0372ms | Statuscode: 404 | Antwortgröße: 19 Bytes
+2025/02/28 09:00:02 server.go:73: Der Server läuft auf Port 8080!
+2025/02/28 09:01:22 middleware.go:61: Startzeit: Fri, 28 Feb 2025 09:01:22 CET | Methode: GET | URL: /api/ping | RemoteAddr: [::1]:64158
+2025/02/28 09:01:22 middleware.go:73: Endzeit: Fri, 28 Feb 2025 09:01:22 CET | Dauer: 534.2µs | Statuscode: 200 | Antwortgröße: 4 Bytes
+2025/04/10 22:54:37 server.go:73: Der Server läuft auf Port 8080!
